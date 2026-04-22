@@ -167,7 +167,7 @@ Created new business columns:
 
 **Shauly Chakraborty**
 📧 [shauly.mlg2002@gmail.com](mailto:shauly.mlg2002@gmail.com)
-🎓 B.Tech CSE (KIIT Bhubaneswar)
+🎓 B.Tech ECSE (KIIT Bhubaneswar)
 
 ---
 
